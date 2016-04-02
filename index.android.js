@@ -16,7 +16,7 @@ class ReactNativeTutorial extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Hallo World!
+          Hello World!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
@@ -28,6 +28,11 @@ class ReactNativeTutorial extends Component {
     );
   }
 }
+
+>.......>>>>>>>>
+
+sdfsdfsdfasdfasdfasdf
+-------------------------------------------------------
 const styles = StyleSheet.create({
   container: {
     flex: 1,
