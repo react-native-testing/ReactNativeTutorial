@@ -12,7 +12,7 @@ import React, {
   View
 } from 'react-native';
 
-var MOCKED_MOVIES_DATA = [title: 'Title', year: '2015', posters: {thumbnail: 'http://i.imgur.com/UePbdph.jpg'}},];
+var MOCKED_MOVIES_DATA = [{title: 'Title', year: '2015', posters: {thumbnail: 'http://i.imgur.com/UePbdph.jpg'}},];
 
 class ReactNativeTutorial extends Component {
   render() {
